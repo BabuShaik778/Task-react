@@ -1,0 +1,31 @@
+container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.explanation-section {
+  margin-top: 40px;
+}
+
+.logo {
+  height: 40px;
+  padding: 10px;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.read-the-docs {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #007acc;
+}
